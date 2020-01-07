@@ -1,0 +1,12 @@
+body, html{
+    background-color: aqua;
+}
+h1{
+    color: fuchsia;
+    font-size: 50px;
+}
+
+.main{
+    padding-left: 10vw;
+    padding-top: 35vh;
+}
